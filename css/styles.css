@@ -157,10 +157,7 @@ body {
     color: #fff;
     background-color: #4d5ae5;
     cursor: pointer;
-    display: flex;
-    align-items: flex-start;
-    justify-content: flex-start;
-    flex-direction: row;
+    display: block;
     gap: 10px;
     min-width: 169px;
     margin: 0 auto;
